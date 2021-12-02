@@ -9,6 +9,10 @@ namespace AdventOfCode
             // Day 1
             Console.WriteLine(SonarSweepDay1.GetPart1Result());
             Console.WriteLine(SonarSweepDay1.GetPart2Result());
+
+            // Day 2
+            Console.WriteLine(Day2.GetPart1Result());
+            Console.WriteLine(Day2.GetPart2Result());
         }
     }
 }
