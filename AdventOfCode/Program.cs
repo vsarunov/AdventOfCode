@@ -10,7 +10,7 @@ namespace AdventOfCode
             //Console.WriteLine(SonarSweepDay1.GetPart1Result());
             //Console.WriteLine(SonarSweepDay1.GetPart2Result());
 
-            //// Day 2
+            // Day 2
             //Console.WriteLine(Day2.GetPart1Result());
             //Console.WriteLine(Day2.GetPart2Result());
 
@@ -20,7 +20,12 @@ namespace AdventOfCode
 
             // Day 4
             //Console.WriteLine(Day4.GetPart1Result());
-            Console.WriteLine(Day4.GetPart2Result());
+            //Console.WriteLine(Day4.GetPart2Result());
+
+            // Day 5
+            //Console.WriteLine(Day5.SolvePart1());
+            Console.WriteLine(Day5.GetResult(false));
+            Console.WriteLine(Day5.GetResult(true));
         }
     }
 }
