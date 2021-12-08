@@ -27,7 +27,8 @@ namespace AdventOfCode
             //Console.WriteLine(Day5.GetResult(true));
 
             // Day 6
-            Console.WriteLine(Day6.GetPart1Result());
+            Console.WriteLine(Day6.GetPart1Result(80));
+            Console.WriteLine(Day6.GetPart1Result(256));
         }
     }
 }
