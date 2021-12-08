@@ -23,9 +23,11 @@ namespace AdventOfCode
             //Console.WriteLine(Day4.GetPart2Result());
 
             // Day 5
-            //Console.WriteLine(Day5.SolvePart1());
-            Console.WriteLine(Day5.GetResult(false));
-            Console.WriteLine(Day5.GetResult(true));
+            //Console.WriteLine(Day5.GetResult(false));
+            //Console.WriteLine(Day5.GetResult(true));
+
+            // Day 6
+            Console.WriteLine(Day6.GetPart1Result());
         }
     }
 }
